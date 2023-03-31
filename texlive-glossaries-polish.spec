@@ -1,6 +1,6 @@
 Name:		texlive-glossaries-polish
 Version:	35665
-Release:	1
+Release:	2
 Summary:	Polish language module for glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-polish
